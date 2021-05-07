@@ -49,7 +49,9 @@ In negative sentences, we put **not** between the form of _be_ and the verb.
 
 In questions, we simply swop the places of _subject_ and the form of _be_.
 
-[![(i)](https://www.ego4u.com/images/misc/info.png) Animation: exceptions in spelling![Exceptions in Spelling](https://www.ego4u.com/images/grammar/present-progressive-4.en.gif)](https://www.ego4u.com/en/cram-up/grammar/present-progressive/exceptions#)
+Animation: exceptions in spelling
+
+![Exceptions in Spelling](https://www.ego4u.com/images/grammar/present-progressive-4.en.gif)
 
 ## Present Progressive - Exceptions in Spelling
 
@@ -81,7 +83,8 @@ I am lying in bed. You are lying in bed. He is lying in bed.
 
 ## Use
 
-Actions taking place at the moment of speaking (now) [![Level 1](https://www.ego4u.com/images/misc/level-1.png)](https://www.ego4u.com/en/cram-up/grammar/present-progressive/use#p0)
+Actions taking place at the moment of speaking (now) 
+
 
 ![playing football](https://www.ego4u.com/images/grammar/present-progressive-5.png)  
 He is playing football.
@@ -94,7 +97,7 @@ Signal words like _now_, _at the moment_ are often used to emphasise that the ac
 
 ----
 
-Arrangements for the near future [![Level 2](https://www.ego4u.com/images/misc/level-2.png)](https://www.ego4u.com/en/cram-up/grammar/present-progressive/use#p1)
+Arrangements for the near future 
 
 ![ticket](https://www.ego4u.com/images/grammar/present-progressive-6.png)  
 I'm going to the theatre tonight.
@@ -106,7 +109,7 @@ To make clear that the action is not going on now, we usually use signal words l
 [Exercise](https://www.ego4u.com/en/cram-up/grammar/present-progressive/use/exercises?use02)
 
 ----
-Actions taking place only for a limited period of time [![Level 3](https://www.ego4u.com/images/misc/level-3.png)](https://www.ego4u.com/en/cram-up/grammar/present-progressive/use#p2)
+Actions taking place only for a limited period of time 
 
 ![my brother's firm](https://www.ego4u.com/images/grammar/present-progressive-7.png)  
 Jim is helping in his brother's firm this week.
@@ -117,9 +120,10 @@ To make clear that there is a time limit, we usually use signal words, e.g. _thi
 
 [Exercise](https://www.ego4u.com/en/cram-up/grammar/present-progressive/use/exercises?use03)
 
-Actions taking place around now (but not at the moment of speaking) [![Level 3](https://www.ego4u.com/images/misc/level-3.png)](https://www.ego4u.com/en/cram-up/grammar/present-progressive/use#p3)
+Actions taking place around now (but not at the moment of speaking) 
 
 ![talking](https://www.ego4u.com/images/grammar/present-progressive-8.png)  
+
 I'm studying for my exams.
 
 ----
@@ -132,9 +136,10 @@ We don't have to use signal words here, but we often find signal words in such s
 
 ----
 
-Development, changing situations [![Level 4](https://www.ego4u.com/images/misc/level-4.png)](https://www.ego4u.com/en/cram-up/grammar/present-progressive/use#p4)
+Development, changing situations 
 
-![Chinese](https://www.ego4u.com/images/grammar/present-progressive-9.gif) The population of China is rising very fast.
+![Chinese](https://www.ego4u.com/images/grammar/present-progressive-9.gif) 
+The population of China is rising very fast.
 
 The sentence describes a development from one situation to another.
 

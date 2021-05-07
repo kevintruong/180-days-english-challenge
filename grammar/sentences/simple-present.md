@@ -74,7 +74,7 @@ example: play - he plays
 
 ## Use
 
-facts (something is generally known to be true) [![Level 1](https://www.ego4u.com/images/misc/level-1.png)](https://www.ego4u.com/en/cram-up/grammar/simple-present/use#p0)
+facts (something is generally known to be true) 
 
 ![](https://www.ego4u.com/images/grammar/simple-present-2.png)  
 The sun sets in the west.
@@ -83,16 +83,19 @@ The sun never sets in the east or south or north, but always in the west.
 
 ----
 
-action in the present taking place once, never or several times [![Level 1](https://www.ego4u.com/images/misc/level-1.png)](https://www.ego4u.com/en/cram-up/grammar/simple-present/use#p1)
+action in the present taking place once, never or several times 
 
 ![](https://www.ego4u.com/images/grammar/simple-present-3.png)  
+
 Colin always plays soccer on Tuesdays.
 
 Colin plays football regularly - every Tuesday.
 
 In English, signal words are often used, e.g.: _always_, _never_, _seldom_, _often_, _regularly_, _every Monday_.
 
-actions in the present taking place one after another [![Level 2](https://www.ego4u.com/images/misc/level-2.png)](https://www.ego4u.com/en/cram-up/grammar/simple-present/use#p2)
+----
+
+Actions in the present taking place one after another 
 
 ![](https://www.ego4u.com/images/grammar/simple-present-4.png)  
 She takes her bag and leaves.
@@ -101,9 +104,10 @@ She takes her bag and leaves.
 
 First one action takes place and then the other.
 
-action set by a time table or schedule [![Level 2](https://www.ego4u.com/images/misc/level-2.png)](https://www.ego4u.com/en/cram-up/grammar/simple-present/use#p3)
+action set by a time table or schedule 
 
 ![](https://www.ego4u.com/images/grammar/simple-present-5.png)  
+
 The train leaves at 9 pm.
 
 Although the action takes place in the future, it takes place regularly and is set by a time table.
@@ -112,10 +116,11 @@ Although the action takes place in the future, it takes place regularly and is s
 
 ----
 
-verbs expressing states, possession, senses, emotions and mental activity[![Level 3](https://www.ego4u.com/images/misc/level-3.png)](https://www.ego4u.com/en/cram-up/grammar/simple-present/use#p4)
+verbs expressing states, possession, senses, emotions and mental activity
 
 ![](https://www.ego4u.com/images/grammar/simple-present-6.png)  
-I love her. [![(i)](https://www.ego4u.com/images/icons/balloonr12c.gif)](https://www.ego4u.com/en/cram-up/grammar/simple-present/use#p5)
+
+I love her. 
 
 When you love someone, that's a state, a fact or emotion, but not an action (like running for example). Whenever you want to express a state, possession, sense or emotions, use the simple form (not the progressive). The following words all belong to this group:
 
