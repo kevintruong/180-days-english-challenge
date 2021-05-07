@@ -15,7 +15,9 @@ Present progressive is also known as present continuous.
 
 Use a form of _to be_ and the infinite verb plus _\-ing_.
 
-[![(i)](https://www.ego4u.com/images/misc/info.png) Animation: form![Bildung](https://www.ego4u.com/images/grammar/present-progressive-2.en.gif)](https://www.ego4u.com/en/cram-up/grammar/present-progressive/form#)
+ Animation: form
+ 
+![Bildung](https://www.ego4u.com/images/grammar/present-progressive-2.en.gif)
 
 ## Use
 

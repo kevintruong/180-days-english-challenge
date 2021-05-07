@@ -122,6 +122,7 @@ verbs expressing states, possession, senses, emotions and mental activity
 
 I love her. 
 
+## words express a state, possession, sense or emotions
 When you love someone, that's a state, a fact or emotion, but not an action (like running for example). Whenever you want to express a state, possession, sense or emotions, use the simple form (not the progressive). The following words all belong to this group:
 
 -   be (state)
@@ -143,7 +144,7 @@ When you love someone, that's a state, a fact or emotion, but not an action (lik
 -   want (feeling and emotion)
 -   wish (feeling and emotion)
 
-## Signal words
+## Signal words for simple present
 
 -   always
 -   every ...
