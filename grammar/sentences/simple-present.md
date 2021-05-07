@@ -1,6 +1,7 @@
-# Sentence
+# Simple Present 
 
-## Simple Present 
+## Introduction
+
 Simple present is also called present simple.
 
 ![simple present](../../assets/simple-present.png)
