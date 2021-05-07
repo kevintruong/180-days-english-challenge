@@ -19,10 +19,12 @@ is with the personal pronouns he, she or it (or with the singular form of nouns)
 are with the personal pronouns we, you or they (or with the plural form of nouns)
 example: I am hungry.
 
+```
             affirmative	negative	question
 I	        I am.	    I am not.	Am I?
 he/she/it	He is.	    He is not.	Is he?
 you/we/they	You are./You are not.	Are you?
+```
 
 ----
 
@@ -48,16 +50,17 @@ Use:
 the infinite verb (play) with the personal pronouns I, you, we and they (or with the plural form of nouns)
 the verb + s (plays) with the personal pronouns he, she, it (or with the singular form of nouns)
 
- 	affirmative	negative	question
-I/you/we/they	I play.	I do not play.	Do I play?
-he/she/it	He plays.	He does not play.	Does he play?
+```
+                affirmative	negative	    question
+I/you/we/they	I play.	    I do not play.	    Do I play?
+he/she/it	    He plays.	He does not play.	Does he play?
+```
 Tips on how to form negative sentences and questions
 Negative sentences and questions are formed with the auxiliary verb 'do'.
 
 
 The 3rd person singular of 'do' is 'does'. This means that in negative sentences and questions the 's' of the main verb is placed behind 'do'.
 
----- 
 ## **Exception in spelling**
 
 The verbs can, may, might, must remain the same in all forms. So don't add s.
